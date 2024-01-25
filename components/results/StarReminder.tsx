@@ -79,7 +79,7 @@ const StarReminder: FC = () => {
             <div className="mt-8 flex justify-center">
               <Button variant="ghost" asChild onClick={onClick}>
                 <a
-                  href="https://github.com/wotschofsky/domain-digger"
+                  href="https://github.com/ntaheij/domain-digger"
                   target="_blank"
                   rel="noopener"
                 >

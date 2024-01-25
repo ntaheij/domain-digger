@@ -20,7 +20,7 @@ const Header = () => (
       <div className="flex items-center justify-between gap-4">
         <Button variant="ghost" asChild>
           <a
-            href="https://github.com/wotschofsky/domain-digger"
+            href="https://github.com/ntaheij/domain-digger"
             target="_blank"
             rel="noopener"
           >

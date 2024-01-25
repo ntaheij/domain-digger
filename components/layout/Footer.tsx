@@ -8,22 +8,22 @@ const Footer = () => (
   <footer className="w-full p-4 md:px-8">
     <div className="flex items-center justify-between border-t pt-4">
       <p className="text-sm">
-        Created with{' '}
+        Hosted with{' '}
         <FaHeart className="inline text-red-500" fontSize="1.25rem" />
         <span className="sr-only">love</span> by{' '}
         <a
           className="underline decoration-dotted underline-offset-4"
-          href="https://wotschofsky.com"
+          href="https://ntaheij.dev"
           target="_blank"
           rel="noopener"
         >
-          Felix Wotschofsky
+          Noah Taheij
         </a>
       </p>
 
       <Button variant="ghost" asChild>
         <a
-          href="https://github.com/wotschofsky/domain-digger"
+          href="https://github.com/ntaheij/domain-digger"
           target="_blank"
           rel="noopener"
         >
